@@ -1,0 +1,31 @@
+h2{ /*Aqui esto poniendo color verde a toda los h2 del texto*/
+    color: green;
+    clear: both;
+}
+p{
+    color: violet; /*Aqui esto poniendo color violeta a toda los p del texto*/
+}
+header{/*Aqui esto poniendo color al fondo de head y le doy taman0*/
+    list-style: none;
+    background-color: white;
+    height: 100px;
+    width: 100%;
+    margin: 0px;
+    font-size: 20px
+    
+}
+#azul{/*Aqui esto poniendo color azul a p de alaprdo azul del texto*/
+    color: blue;
+}
+#grisaceo{
+    color: red;
+    /*Aqui esto poniendo color rojo a p de alaprdo azul del texto*/
+}
+.pruebagrande{
+    color: black;
+
+}
+#no{
+    color:black;
+    clear: both;
+}
